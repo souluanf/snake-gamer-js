@@ -1,4 +1,10 @@
-## Jogo da cobrinha da Digital Innovation One
+# Snake Gamer
+
+ - HTML 
+ - CSS
+ - Javascript
+ 
+ 
+## Tela
 
 ![SnakeGame](snakeGame.PNG)
-Tutorial em:https://web.digitalinnovation.one/
